@@ -1,0 +1,12 @@
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\bin\Debug\HartemBebraWFCS.exe.config
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\bin\Debug\HartemBebraWFCS.exe
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\bin\Debug\HartemBebraWFCS.pdb
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.AboutBox1.resources
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.Form1.resources
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.Properties.Resources.resources
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\Kursovaya2021.csproj.GenerateResource.cache
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\Kursovaya2021.csproj.CoreCompileInputs.cache
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.exe
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.pdb
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\Kursovaya2021.csproj.AssemblyReference.cache
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\Kursovaya2021.csproj.SuggestedBindingRedirects.cache

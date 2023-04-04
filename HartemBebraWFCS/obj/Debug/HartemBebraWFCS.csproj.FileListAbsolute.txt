@@ -1,0 +1,11 @@
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\bin\Debug\HartemBebraWFCS.exe.config
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\bin\Debug\HartemBebraWFCS.exe
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\bin\Debug\HartemBebraWFCS.pdb
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.csprojAssemblyReference.cache
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.Form1.resources
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.Properties.Resources.resources
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.csproj.GenerateResource.cache
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.csproj.CoreCompileInputs.cache
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.exe
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.pdb
+C:\Users\Errorerko\source\repos\HartemBebraWFCS\HartemBebraWFCS\obj\Debug\HartemBebraWFCS.AboutBox1.resources
